@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(227, 171, 171);
+}
+
+table{
+    width: 10%;
+}
+#end{
+    color: rgb(5, 5, 28);
+    background-color: white;
+    
+}
+
+#head1{
+    background-color: black;
+    width: 10%;
+}
+
+h1{
+    color: darkmagenta;
+}

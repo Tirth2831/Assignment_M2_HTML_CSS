@@ -1,0 +1,49 @@
+1. Define the terms: Website, Webpage, Web browser, Web server, HTML,CSS.
+ans. 
+
+Website : A website is a collection of related web pages, multimedia content, and resources that are typically identified by
+          a common domain name and published on at least one web server. 
+          Websites are accessed via the Internet through web browsers.
+
+Webpage : A webpage is a single document, usually written in HTML, that is accessible through the Internet. It can contain text, 
+          images, multimedia elements, hyperlinks to other web pages, and other types of content. 
+          Webpages are the building blocks of websites.
+
+Web browser : A web browser is a software application used to access and view websites on the World Wide Web. 
+              Examples of popular web browsers include Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari. 
+              Web browsers interpret HTML, CSS, JavaScript, and other web technologies to render webpages for users.
+
+Web server : A web server is a computer program or hardware device that hosts websites and serves web content to clients over 
+             the Internet. Web servers receive requests from web browsers, process them, and send back the requested webpages 
+             or resources.
+             Examples of web server software include Apache HTTP Server, Microsoft Internet Information Services, and Node.js.
+
+HTML : HTML stands for "Hyper Text Markup Language".
+       HTML is the standard markup language used to create and structure content on the World Wide Web. It consists of a set of 
+       tags and attributes that define the structure and semantics of a webpage. HTML tags are used to format text, insert images, 
+       create hyperlinks, and define other elements of a webpage.
+
+CSS : CSS stands for "Cascading Style Sheets".
+      CSS is a style sheet language used to control the presentation and layout of HTML documents. It allows web developers
+      to define the appearance of elements on a webpage, such as fonts, colors, spacing, and positioning. CSS can be applied 
+      internally within an HTML document, externally through separate CSS files, or inline within HTML tags.
+
+
+
+8. In how many ways can a CSS be integrated as a web page?
+ans.
+
+There are several ways to integrate CSS into a web page:
+
+1.Inline CSS
+2.Internal CSS
+3.External CSS
+
+Inline CSS : CSS can be applied directly to HTML elements using the 'style' attribute. This method is useful for 
+             applying unique styles to individual elements.
+
+Internal CSS: You can also include CSS directly within the HTML document using the <style> tag in the <head> section.
+              This is useful for small-scale styling.
+
+External CSS: This is the most common method. You create a separate CSS file with the styling rules and link it to
+              your HTML document using the <link> tag in the <head> section.
